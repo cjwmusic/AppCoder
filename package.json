@@ -1,0 +1,23 @@
+{
+  "name": "appcoder",
+  "version": "1.0.0",
+  "description": "iOS Coder Generater",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ios"
+  ],
+  "author": "wukong",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.17.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.16.0",
+    "babel-preset-react": "^6.16.0",
+    "react": "^0.14.8",
+    "react-dom": "^0.14.8",
+    "webpack": "^1.13.2"
+  }
+}
