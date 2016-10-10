@@ -6,9 +6,9 @@
     right:0;
 }
 
-.setting {
+.setting_area {
     position: fixed;
-    left: 10px;
+    left: 30px;
     top: 80px;
     width: 300px;
     height: 600px;
@@ -47,7 +47,8 @@
     padding: 10px 10px;
     border : 1px solid black ;
     border-radius:5px;
-    font-family: "Source Code Pro";
+    font-family: "PingFang SC";
+    font-size: 16px;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;

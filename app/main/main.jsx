@@ -4,6 +4,7 @@ var Style = require('./main.css');
 import HeaderSection from "../component/base/headerSection.jsx"
 import FooterSection from "../component/base/footerSection.jsx"
 import PropSelect from "../component/settings/propSelect.jsx"
+import SettingCell from "../component/settings/settingCell.jsx"
 
 module.exports = React.createClass({
 
@@ -21,11 +22,14 @@ module.exports = React.createClass({
             <div id="app" className="main">
                 <HeaderSection title = 'iOS Code Generator V0.1'/>
 
-                <div className="setting">
+                <div className="setting_area">
                     <div className = 'select_prop'>
                         <PropSelect />
                     </div>
                     <button className="button">添加</button>
+
+                    <SettingCell />
+
                 </div>
 
                 <div className="code_area">
