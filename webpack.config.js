@@ -13,7 +13,14 @@ module.exports = {
                 query: {
                     presets: ['es2015', 'react'] // es2015 处理 ES6 语法，react 处理 jsx 语法
                 }
-            }
+            },
+            {
+                test: /\.css$/,
+                loader: 'style/useable!css'
+            },
         ]
+    },
+    resolve: {
+        extensions: ['', '.js', '.jsx', '.css']
     },
 };

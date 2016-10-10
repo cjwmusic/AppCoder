@@ -1,0 +1,19 @@
+.header {
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    height : 64px;
+    background-color: #20B2AA;
+}
+
+.title {
+    position: fixed;
+    left: 0;
+    right: 0;
+    font-size: 18px;
+    color: white;
+    text-align:center;
+    font-family: "PingFang SC";
+    line-height: 64px;
+}

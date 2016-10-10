@@ -1,0 +1,15 @@
+.footer {
+    position : fixed;
+    background-color: #20B2AA;
+    left:0;
+    right:0;
+    bottom: 0;
+    height: 30px;
+}
+
+.footer .title {
+    position: fixed;
+    line-height: 30px;
+    font-family: "PingFang HK";
+    font-size: 14px;
+}
