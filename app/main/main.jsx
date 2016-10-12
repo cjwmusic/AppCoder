@@ -36,7 +36,7 @@ module.exports = React.createClass({
                     <textarea className="code_text" >
                         Contribute to Learning-HTML-CSS development by creating an ... 这是偶尔看到的一篇学习CSS布局的文章，对于我这个菜鸟来说真是受益匪浅， .
                         Contribute to Learning-HTML-CSS development by creating an ... 这是偶尔看到的一篇学习CSS布局的文章，对于我这个菜鸟来说真是受益匪浅， .
-                        Contribute to Learning-HTML-CSS development by creating an ... 这是偶尔看到的一篇学习CSS布局的文章，对于我这个菜鸟来说真是受益匪浅， .
+                        Contribute to Learning-HTML-CSS development by creating an ... 这是偶尔看到的一篇学习CSS布局的文章，对于我这个菜鸟来说真是受益匪浅， .\n
                         Contribute to Learning-HTML-CSS development by creating an ... 这是偶尔看到的一篇学习CSS布局的文章，对于我这个菜鸟来说真是受益匪浅， .
                         Contribute to Learning-HTML-CSS development by creating an ... 这是偶尔看到的一篇学习CSS布局的文章，对于我这个菜鸟来说真是受益匪浅， .
                         Contribute to Learning-HTML-CSS development by creating an ... 这是偶尔看到的一篇学习CSS布局的文章，对于我这个菜鸟来说真是受益匪浅， .
